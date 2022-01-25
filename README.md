@@ -1,2 +1,1 @@
-# Screen-recorder-by-neil-
-Screen recorder 
+Simple screen recorder
